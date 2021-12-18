@@ -1,0 +1,13 @@
+{
+  "name": "My express app for awesomeBlogDB- Production",
+  "db": "mongodb://localhost/awesomeBlog",
+  "collectionName": "awesomeBlog",
+  "webToken": "Thisisajsonwebtoken",
+  "accessCode": {
+    "code": "Bzypm5N9W9g3tHwWCt3U3xAyT"
+  },
+  "mail": {
+    "host": "prod-mail-server"
+  },
+  "ipAddress": "http://1.12.123.123/"
+}

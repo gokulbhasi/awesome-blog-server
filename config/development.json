@@ -1,0 +1,10 @@
+{
+  "name": "My express app for awesomeBlogDB- Development",
+  "db": "mongodb://localhost/awesomeBlog",
+  "collectionName": "awesomeBlog",
+  "webToken": "Thisisajsonwebtoken",
+  "accessCode": {
+    "code": "Bzypm5N9W9g3tHwWCt3U3xAyT"
+  },
+  "ipAddress": "http://localhost:3000/"
+}

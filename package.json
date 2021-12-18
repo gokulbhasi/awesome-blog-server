@@ -1,0 +1,41 @@
+{
+  "name": "awesome-blog-server",
+  "version": "1.0.0",
+  "description": "server that has apis for awesome blog that has the apis with nodejs-express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "server": "nodemon index"
+  },
+  "author": "Gokul",
+  "license": "ISC",
+  "dependencies": {
+    "array-to-tree": "^3.3.2",
+    "async": "^3.2.2",
+    "config": "^3.3.6",
+    "cors": "^2.8.5",
+    "csurf": "^1.11.0",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "express-formidable": "^1.2.0",
+    "express-mongo-sanitize": "^2.1.0",
+    "fs": "0.0.1-security",
+    "helmet": "^4.6.0",
+    "hpp": "^0.2.3",
+    "joi": "^17.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.0.14",
+    "mongoose-slug-updater": "^3.3.0",
+    "morgan": "^1.10.0",
+    "performant-array-to-tree": "^1.9.1",
+    "rate-limiter-flexible": "^2.3.6",
+    "slugify": "^1.6.3",
+    "uuid": "^8.3.2",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

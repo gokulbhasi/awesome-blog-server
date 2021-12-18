@@ -1,0 +1,7 @@
+{
+  "name": "My express app for awesomeBlog - Production",
+  "mail": {
+    "password": "app_password"
+  },
+  "ipAddress": "http://1.12.123.123/"
+}
